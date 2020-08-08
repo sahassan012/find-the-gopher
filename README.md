@@ -1,7 +1,7 @@
 # Find The Gopher
 ## About
 
-The gopher hides in any of the holes in the field's ground. The goal of this game is to find the hole that contains the gopher. 
+The gopher hides in any of the holes in the field's ground. The goal of this game for the players is to find the hole that contains the gopher. 
 As a user, you can choose two game modes: guess-by-guess or continuous.In guess-by-guess game mode, you get to choose when the players will make a move. In the continuous mode, the players make moves one after another. 
 
 ## How it works
